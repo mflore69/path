@@ -268,7 +268,9 @@ tr:first-child{
 
 /*-------------------- MEDIA QUERY (small) --------------------------------*/
 @media screen and (min-width:450px){
-   
+  img {
+	  width:150px;
+  }
   
   body{
     display:grid;
@@ -339,7 +341,9 @@ tr:first-child{
 /*-------------------- MEDIA QUERY (medium) --------------------------------*/
 @media screen and (min-width:620px){
   
-  
+  img {
+	  width:150px;
+  }
   
   main{
     display:grid;
@@ -413,7 +417,10 @@ tr:first-child{
 }
 /*-------------------- MEDIA QUERY (large) ------------------------------------*/
 @media screen and (min-width: 950px){
-  
+
+img {
+	  width:150px;
+  }
   
   .why-choose-us{
   margin: 50px;
@@ -478,4 +485,10 @@ tr:first-child{
 
 /*-------------------- MEDIA QUERY (xl) ---------------------------------------*/
   @media screen and (min-width: 1280px){
+
+img {
+	  width:150px;
+  }
+
+	  
   }
