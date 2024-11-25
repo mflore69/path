@@ -274,10 +274,7 @@ tr:first-child{
     display:grid;
     grid-template-columns:1fr;
   }
-  img{
-    width:30%;
-    height:auto;
-  }
+  
    
  .smallbox5{
    margin:auto;
